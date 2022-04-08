@@ -33,6 +33,7 @@
      <a href="https://discord.com/channels/@me/898652202992820234" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
      <a href="https://mail.google.com/mail/u/2/#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
+    
     ![Snake animation](https://github.com/valdineia-martins/valdineia-martins/blob/output/github-contribution-grid-snake.svg)
  
   </div>
