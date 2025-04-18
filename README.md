@@ -1,10 +1,8 @@
 ### **Olá!👋 Eu sou a Valdineia Martins**
 
 - 🌺 **Formada:** Analise e Desenvolvimento de Sistemas
-- 🌻 **Conhecimentos em:** HTML, CSS um pouco de Javascript e Estudando Java.
 - 📫 **Contate-me no email:** valdineia.dev@gmail.com
-- 👪 **Maior tesouro:** Minha Família
-- 🎤 **Hobby:** Amo Cantar!
+
 
 <div align="center">
   <a href="https://github.com/valdineia-martins">
